@@ -13,3 +13,4 @@ Explicitly installed the following packages:
 `conda install jupyter`<br>
 `conda install scikit-learn`<br>
 `conda install pandas`<br>
+`conda install matplotlib`<br>
