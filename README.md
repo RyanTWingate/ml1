@@ -10,6 +10,6 @@ Export your active environment to a new file:
 
 Explicitly installed the following packages:
 
-`conda install jupyter`
-`conda install scikit-learn`
-`conda install pandas`
+`conda install jupyter`<br>
+`conda install scikit-learn`<br>
+`conda install pandas`<br>
